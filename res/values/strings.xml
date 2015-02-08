@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleMapsActivity</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="gps_Data">Enter GPS Data!</string>
+	<string name="button_Send">Send</string>
+	
+</resources>
